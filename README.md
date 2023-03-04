@@ -4,5 +4,5 @@
 
 The purpose of this file is to show a great meme
 
-
+Programmeren kun je leren 
 
