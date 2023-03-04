@@ -1,0 +1,11 @@
+--2023-03-04 15:29:26--  https://www.google.nl/url?sa=i
+Resolving www.google.nl (www.google.nl)... 216.58.214.3, 2a00:1450:400e:800::2003
+Connecting to www.google.nl (www.google.nl)|216.58.214.3|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘url?sa=i’
+
+url?sa=i                [<=>                 ]       0  --.-KB/s               url?sa=i                [ <=>                ]   1.42K  --.-KB/s    in 0s      
+
+2023-03-04 15:29:26 (22.3 MB/s) - ‘url?sa=i’ saved [1452]
+
